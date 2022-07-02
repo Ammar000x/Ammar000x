@@ -1,11 +1,11 @@
-
-# I have changed my username to [Ammar-A-Ammar](https://github.com/Ammar-A-Ammar)
+## Hi there 👋
+### I have changed my username to [Ammar-A-Ammar](https://github.com/Ammar-A-Ammar)
 
 sorry for inconvenience
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ammar000x&label=Profile%20views&color=0e75b6&style=flat" alt="Ammar000x" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ammar-A-Ammar&label=Profile%20views&color=0e75b6&style=flat" alt="Ammar-A-Ammar" /> </p>
 
 <!--
 **Ammar000x/Ammar000x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
